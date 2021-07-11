@@ -1,0 +1,20 @@
+.card-container {
+    max-height: 500px;
+    width: 400px;
+    margin: 10px;
+
+}
+
+
+.note__title{
+    font-family: sans-serif;
+    font-size: 16px;
+    background-color: lightgrey;
+    height: 30px;
+    padding: 5px;
+}
+
+.note__content{
+    font-size: 14px;
+    height: 80px;
+}
